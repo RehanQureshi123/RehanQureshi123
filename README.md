@@ -35,8 +35,8 @@
  <a href="https://www.facebook.com/profile.php?id=100029762571412" target="_blank" rel="noopener noreferrer">
   <img align="left" width="24px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png"  />
 </a>
- <a href="mailto:rehankhan29112006@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />
+ <a href="https://twitter.com/Rehankhan1909" target="_blank" rel="noopener noreferrer">
+  <img align="left" width="24px" src="https://abs.twimg.com/favicons/twitter.ico" />
 </a>
 <br>
 <br/>
